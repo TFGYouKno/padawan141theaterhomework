@@ -1,0 +1,74 @@
+* { border-box;
+    font: Roboto;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+header {
+    background-color: black;
+}
+
+footer {
+    background-color: black;
+}
+
+article {
+    background-color: whitesmoke;
+    text-align: center;
+
+
+}
+
+nav {
+
+}
+
+.nav-bar, .nav-link {
+    display: inline;
+}
+
+#Theater {
+    margin-left: 40px;
+    margin-right: 100px;
+    color: white;
+}
+
+a {
+    color: white;
+    padding: 30px;
+    text-decoration: dotted;
+}
+
+a:hover {
+    color:orange
+}
+
+#readmore {
+    color: white;
+    background-color: orange;
+    
+}
+
+#theaterthumbnail {
+    align-content: left;
+}
+
+#footerheading0 {
+    color: white;
+    text-align: left;
+    padding: 30, 100, 30, 0;
+}
+
+#footerheading1 {
+    color: white;
+    text-align: center;
+    padding: 30, 100, 30, 100;
+}
+
+#footerheading2 {
+    color: white;
+    text-align: right;
+    padding: 30, 0, 30, 100;
+}
